@@ -12,14 +12,14 @@ return [
     */
 
     // Project name. Shown in the breadcrumbs and a few other places.
-    'project_name' => 'Backpack',
+    'project_name' => 'SensusRawat',
 
     // Menu logos
-    'logo_lg'   => '<b>Back</b>pack',
-    'logo_mini' => '<b>B</b>p',
+    'logo_lg'   => '<b>Sensus</b>Rawat',
+    'logo_mini' => '<b>Sensus</b>Rawat',
 
     // Developer or company name. Shown in footer.
-    'developer_name' => 'Cristian Tabacitu',
+    'developer_name' => 'Aji Tirta',
 
     // Developer website. Link in footer.
     'developer_link' => 'http://tabacitu.ro',
